@@ -17,7 +17,7 @@ Claude Code skills for building modern iOS apps with the full Apple stack (iOS 2
 As a plugin:
 
 ```
-/plugin marketplace add <path-or-git-url-of-this-repo>
+/plugin marketplace add myxomatozis/apple-skills
 /plugin install apple-skills@apple-skills
 ```
 
