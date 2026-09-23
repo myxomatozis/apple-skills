@@ -1,0 +1,6 @@
+{
+  "name": "apple-skills",
+  "description": "iOS / Apple-platform skills: architecture, auth, CloudKit, data, Apple Intelligence, localization, SwiftUI + Liquid Glass.",
+  "version": "0.1.0",
+  "author": { "name": "Oleh Smirnov" }
+}

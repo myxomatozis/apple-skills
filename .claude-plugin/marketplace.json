@@ -1,0 +1,11 @@
+{
+  "name": "apple-skills",
+  "owner": { "name": "Oleh Smirnov" },
+  "plugins": [
+    {
+      "name": "apple-skills",
+      "source": "./",
+      "description": "iOS / Apple-platform skills: architecture, auth, CloudKit, data, Apple Intelligence, localization, SwiftUI + Liquid Glass."
+    }
+  ]
+}
